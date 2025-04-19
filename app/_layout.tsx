@@ -4,7 +4,6 @@ import {
     View,
     Text,
     TouchableOpacity,
-    StyleSheet,
     ScrollView,
     TextInput,
     //Animated
